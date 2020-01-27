@@ -3,10 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <LangVersion>latest</LangVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Logfile" Version="1.0.2" />
+    <PackageReference Include="Logfile" Version="1.0.4" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
   </ItemGroup>
 
