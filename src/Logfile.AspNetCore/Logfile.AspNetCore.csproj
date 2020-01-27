@@ -6,6 +6,16 @@
     <FileVersion>1.0.1.0</FileVersion>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Authors>Kristian Virkus</Authors>
+    <Company>Kristian Virkus</Company>
+    <Product>ASP.NET Core Adapter for Logfile</Product>
+    <Description>This is the ASP.NET Core 2.x adapter for the Logfile library capable of logging information in a structured way, retaining the information instead of just serializing it all into a human readable string.</Description>
+    <Copyright>2020, Kristian Virkus</Copyright>
+    <PackageLicenseUrl>https://github.com/KristianVirkus/Logfile.AspNetCore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/KristianVirkus/Logfile.AspNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KristianVirkus/Logfile.AspNetCore</RepositoryUrl>
+    <PackageTags>log logfile logging aspnetcore aspnet core adapter structured event detail information</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
